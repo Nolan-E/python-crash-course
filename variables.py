@@ -11,3 +11,6 @@ print(total)
 travelDestinations = ["Bogota", "Buenos Aires", "Munich", "Glasgow", "Reykjavik"]
 for city in travelDestinations:
     print(city)
+
+name = input()
+print("Hello, " + name)
